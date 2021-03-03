@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vgai/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vgai/static/js/main.8aa6f349.chunk.js",
+    "main.js.map": "/vgai/static/js/main.8aa6f349.chunk.js.map",
+    "runtime-main.js": "/vgai/static/js/runtime-main.8688219e.js",
+    "runtime-main.js.map": "/vgai/static/js/runtime-main.8688219e.js.map",
+    "static/js/2.3ea3bc4d.chunk.js": "/vgai/static/js/2.3ea3bc4d.chunk.js",
+    "static/js/2.3ea3bc4d.chunk.js.map": "/vgai/static/js/2.3ea3bc4d.chunk.js.map",
+    "static/js/3.b9e7d82e.chunk.js": "/vgai/static/js/3.b9e7d82e.chunk.js",
+    "static/js/3.b9e7d82e.chunk.js.map": "/vgai/static/js/3.b9e7d82e.chunk.js.map",
+    "index.html": "/vgai/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vgai/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3ea3bc4d.chunk.js.LICENSE.txt": "/vgai/static/js/2.3ea3bc4d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vgai/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8688219e.js",
+    "static/js/2.3ea3bc4d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8aa6f349.chunk.js"
+  ]
+}
